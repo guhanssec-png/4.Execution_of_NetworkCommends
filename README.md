@@ -46,6 +46,7 @@ result, unans = traceroute(target,maxttl=32) print(result,unans)
 ```
 ## Output
 <img width="958" height="278" alt="image" src="https://github.com/user-attachments/assets/44ee1a6b-46d1-4653-b425-8ddca9cc5b62" />
+TRANCEROUTE COMMAND output
 <img width="975" height="365" alt="image" src="https://github.com/user-attachments/assets/43ef2cc6-ffdc-45af-acc3-c4cfbe55a618" />
 
 ## Result
